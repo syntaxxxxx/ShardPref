@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="save">simpan</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone_no">No Telphone</string>
+    <string name="age">Umur</string>
+    <string name="haha">Do You Love Me ?</string>
+    <string name="emaill">fiqrihafzainislami@gmail.com</string>
+    <string name="no">089614191467</string>
+    <string name="hah">19</string>
+    <string name="aa">Gak Juga</string>
+    <string name="ya">yes</string>
+    <string name="tidak">no</string>
+</resources>
