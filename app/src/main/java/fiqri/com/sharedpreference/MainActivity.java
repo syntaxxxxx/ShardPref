@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity
             }
 
             startActivityForResult(i, InputanPreference.REQUEST_CODE);
+            showPref();
         }
     }
 
