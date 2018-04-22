@@ -7,4 +7,5 @@ package fiqri.com.sharedpreference;
 public class Git {
 
     String nama, alamat, kelas, umur;
+    int kelass, alamatt;
 }
